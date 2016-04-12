@@ -1,0 +1,106 @@
+Personas
+
+WALTER SMITH
+
+-Walter is just joined a rec league for the first time.
+
+-Walter is in his early 40's.
+
+-Walter is a very active person, (camping, fishing, sports, etc.)
+
+-Walter is looking for something to do during the week now that his kids are out of the house and finished with college.
+
+-Walter is a copyright attorney and owns his own business.
+
+
+
+Tom Steel
+
+-Tom is active in multiple rec leagues (football, softball, soccer)
+
+-Tom spends a great deal of his time at the gym.
+
+-Tom is in his early 30's.
+
+-Tom works in a retail sports shoe store. 
+
+
+Jennifer Springfield
+
+-Jennifer is new to town and looking for a way to meet new people and be social.
+
+-Jennifer enjoys social interactions and hanging out with her friends.
+
+-Jennifer is in her mid 20's. 
+
+-Jennifer has an marketing job that transfered her here from out of state.
+
+
+
+
+Stories 1
+
+Users Need to be able to login/out of app.
+
+Users Need to see their upcoming schedule.
+
+Users Need to track their stats from previous games in order to track their progress.
+
+Users need to be able to add comments on the teams wall.
+
+Users need to be able to receive notifications regarding game times.
+
+
+
+Stories 2
+
+Users need to be able to to upload photos to the teams page within app.
+
+Users should be able to look at other teammates profile to see their stats and other sports.
+
+Users need to be able to contact other users within team directly through app.
+
+Users Need to be able to explore other sports and for upcoming seasons.
+
+
+Scenarios 1
+___________
+
+User forgot what time his game today and cannot be on his phone at work. He needs to pop into the breakroom and check what time his game starts quickly. There needs to be a link on the homepage of the app to view upcoming gametime.
+
+
+Cases 1
+
+-Click "Your Upcoming Schedule"
+
+
+Scenarios 2
+_____________
+
+User wants to track their stats from game to game. User needs to see breakdown of week to week stat changes to moniter his progress.
+
+
+
+Flow 1
+-Login--->Click "Your Schedule"--->User should be able to view upcoming games with times and location.
+
+
+Flow 2
+-Login--->Click "View Profile"--->Click "View Sports"--->Click "Stats"--->User should be able to view their status broken down by weekly games.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

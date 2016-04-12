@@ -1,0 +1,5 @@
+1. When is it better to use a Data UI element and when will an ID tag suffice?
+
+2. When is it better to create a separate JS folder for your site instead of adding it to the body of your html. Is there a cuttoff that will slow load times?
+
+3. For designers, how much javascript/jquery are used in practical work situations vs relying on a front end person for JS.
